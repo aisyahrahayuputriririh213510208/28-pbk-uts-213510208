@@ -1,3 +1,4 @@
+//saya sudah mencoba import store tetapi tidak bisa,tampilan hanya menjadi background saja
 import { defineStore } from 'pinia';
 import { createPinia } from 'pinia';
 import router from './router';
