@@ -1,4 +1,4 @@
-//saya sudah mencoba import store tetapi tidak bisa,tampilan hanya menjadi background saja
+//saya sudah mencoba import pinia store ini kefile main.js,app.vue,dan indext.js tetapi tidak bisa,tampilan hanya menjadi background saja. jadi saya upload codingan store saja pada bagian lain tidak saya ubah agar tampilannya tidak hilang saat bapak buka tugas saya ini
 import { defineStore } from 'pinia';
 import { createPinia } from 'pinia';
 import router from './router';
